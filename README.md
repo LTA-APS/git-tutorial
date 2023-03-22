@@ -7,6 +7,11 @@
     <br>
 </h2>
 
+<h2 align="center">
+    <a href="https://app.sli.do/event/opJk3mLRKWPZUuZkTt7BH4">📊 Poll</a>
+    <br>
+</h2>
+
 This tutorial provides an introduction to version control systems using `git` and `GitHub`. It focuses on teaching you the techniques you need to actually get started.
 
 We will use the ⌨️ Command Line Interface (CLI) (i.e. `Bash` for Windows and `Terminal` in Mac) to perform essential command line techniques. 

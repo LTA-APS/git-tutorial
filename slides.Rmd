@@ -1,9 +1,9 @@
 ---
 title: "GitHub Tutorial"
 subtitle: "Introduction to Git and GitHub"  
-author: "Javed Ali"
-role: PhD Student
-company: 'University of Central Florida'
+author: "Marco Mobilio"
+role: Researcher
+company: 'University of Milano-Bicocca'
 date: "`r format(Sys.Date(), format='%d %B %Y')`"
 output:
   xaringan::moon_reader:
